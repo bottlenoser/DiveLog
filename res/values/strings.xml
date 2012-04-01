@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, DiveLogActivity!</string>
+    <string name="app_name">DiveLog</string>
+    
+    <string name="divenumber">Dive Number:</string>
+    <string name="date">Date:</string>
+    <string name="location">Location:</string>
+    <string name="weight">Weight:</string>
+    <string name="startbar">bar/psi START:</string>
+    <string name="selectDate">Select Date:</string>
+
+</resources>
